@@ -34,7 +34,7 @@ header_pages:
  - secretgarden.html
  - agseminar.html
  - supervision.html
- - distractions.html
+ - misc.html
 
 # Build settings
 theme: minima
